@@ -1,4 +1,4 @@
-FROM homebrew/brew:4.3.7
+FROM homebrew/brew:4.3.8
 
 RUN git config --global user.email "wang@hashdata.cn" \
     && git config --global user.name "Zhanwei Wang" \
